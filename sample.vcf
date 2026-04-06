@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Alice Smith
+N:Smith;Alice;;;
+EMAIL;TYPE=INTERNET:alice@example.com
+TEL;TYPE=CELL:+1-555-123-4567
+ORG:Acme Corp
+TITLE:Engineer
+URL:https://example.com/alice
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Bob Jones
+N:Jones;Bob;;;
+EMAIL;TYPE=INTERNET:bob@example.com
+TEL;TYPE=WORK:+1-555-987-6543
+ORG:Widgets Inc
+TITLE:Designer
+END:VCARD
